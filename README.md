@@ -4,7 +4,7 @@ HOW TO RUN THE LOGGER SCRIPT
 
 >pip install -r requirements.txt
 
-            -AND-
+-AND-
 
 >pip3 install -r requirements.txt
 
