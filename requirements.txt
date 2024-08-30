@@ -1,0 +1,7 @@
+pyautogui
+opencv-python
+numpy
+pynput
+pytz
+cryptography
+requests
