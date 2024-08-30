@@ -1,5 +1,4 @@
 deviceLogger Software License Agreement
-
 1. Preamble
 This License Agreement (the "Agreement") is a comprehensive legal document between the Author ("Ethan Xu") and any individual or entity ("You" or "Your") who downloads, installs, or uses the deviceLogger software (the "Software"). By downloading, installing, or using the Software, You agree to comply with the terms and conditions set forth in this Agreement. This Agreement governs Your use of the Software and aims to protect the Author’s intellectual property, ensure responsible usage, and set clear expectations for both parties.
 
@@ -58,6 +57,9 @@ You shall not engage in any activity that circumvents, disables, or interferes w
 Bypassing or disabling security mechanisms designed to protect the Software.
 Using the Software in conjunction with unauthorized tools or applications.
 Engaging in any activity that violates applicable laws or regulations.
+4.7 Derivative Works and Competitive Software
+You shall not create derivative works or develop competing software based on the concepts, functionality, or design of the Software. This includes using the Software to inspire, inform, or guide the development of other software products that serve a similar purpose or function.
+
 5. Intellectual Property Rights
 5.1 Ownership
 The Software, including all code, documentation, and associated intellectual property, is the exclusive property of the Author. Nothing in this Agreement grants You any rights, title, or interest in the Software except as expressly provided in this Agreement. All rights not expressly granted herein are reserved by the Author.
@@ -74,123 +76,142 @@ The Software may include or be integrated with third-party software, libraries, 
 5.5 Feedback and Contributions
 Any feedback, suggestions, or contributions You provide to the Author regarding the Software shall be the exclusive property of the Author. The Author shall have the right to use, modify, and incorporate such feedback, suggestions, or contributions into the Software without any obligation to You, including but not limited to any obligation to provide compensation or attribution.
 
-6. Restrictions
-6.1 Reverse Engineering
+5.6 Non-Infringement
+The Author does not warrant that the Software does not infringe on any third-party intellectual property rights. The Author shall not be responsible for any claims or liabilities arising from such infringement. You are solely responsible for ensuring that Your use of the Software does not violate any third-party intellectual property rights.
+
+6. Data Handling and Security
+6.1 User Responsibility for Data Handling
+The Software may generate or collect data, including but not limited to logs of device activities. You are solely responsible for ensuring that all data generated, collected, or processed by the Software is handled in accordance with applicable data protection laws and regulations. The Author shall not be liable for any data breaches, unauthorized access, or misuse of data resulting from Your use of the Software.
+
+6.2 Data Retention and Deletion
+Upon termination of this Agreement, You must immediately delete all data generated, collected, or processed by the Software. The Author shall have no responsibility for any data that remains in Your possession after termination of the Agreement.
+
+6.3 Data Security
+You are responsible for implementing and maintaining appropriate security measures to protect data generated, collected, or processed by the Software. The Author does not warrant that the Software is free from security vulnerabilities, and the Author shall not be liable for any data breaches, unauthorized access, or other security incidents related to the use of the Software.
+
+7. Restrictions
+7.1 Reverse Engineering
 You shall not decompile, reverse engineer, disassemble, or attempt to derive the source code of the Software, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. Any attempt to reverse engineer or derive the source code of the Software without authorization is a violation of this Agreement and may result in legal action.
 
-6.2 Transfer
+7.2 Transfer
 You may not rent, lease, lend, sell, redistribute, or sublicense the Software. You may not assign or transfer any rights or obligations under this Agreement without the prior written consent of the Author. Any attempt to transfer or assign the rights granted under this Agreement without authorization is void and may result in the termination of this Agreement.
 
-6.3 Compliance with Laws
+7.3 Compliance with Laws
 You agree to comply with all applicable laws, regulations, and rules in connection with Your use of the Software. This includes, but is not limited to, laws governing data protection, privacy, intellectual property, and the use of monitoring or logging software. You are solely responsible for ensuring that Your use of the Software complies with all applicable laws and regulations.
 
-6.4 Export Control
+7.4 Export Control
 You shall not export, re-export, or transfer the Software, in whole or in part, to any country or jurisdiction that is subject to export control restrictions under applicable law without obtaining all necessary licenses and approvals. You agree to comply with all applicable export control laws and regulations in connection with Your use of the Software.
 
-6.5 No Waiver
+7.5 No Waiver
 No failure or delay by the Author in exercising any right, power, or remedy under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise of any such right, power, or remedy preclude any other or further exercise thereof or the exercise of any other right, power, or remedy.
 
-7. Termination
-7.1 Termination by the Author
+8. Termination
+8.1 Termination by the Author
 The Author reserves the right to terminate this Agreement and Your license to use the Software at any time and for any reason, including but not limited to violations of the terms of this Agreement. Termination of this Agreement shall be effective immediately upon notice to You, whether such notice is provided in writing, electronically, or by any other means.
 
-7.2 Termination by You
+8.2 Termination by You
 You may terminate this Agreement at any time by ceasing all use of the Software and destroying all copies of the Software in Your possession or control. Termination by You shall not entitle You to any refund of any fees paid, if applicable, nor shall it release You from any obligations incurred prior to the termination of this Agreement.
 
-7.3 Effect of Termination
-Upon termination of this Agreement, You must immediately cease all use of the Software and destroy all copies, full or partial, of the Software in Your possession or control. Termination of this Agreement shall not affect any rights or remedies available to the Author under applicable law, nor shall it affect any provisions of this Agreement that are intended to survive termination.
+8.3 Effect of Termination
+Upon termination of this Agreement, You must immediately cease all use of the Software and destroy all copies, full or partial, of the Software in Your possession or control. Additionally, You must delete all data generated, collected, or processed by the Software. The Author shall have no responsibility for any data that remains in Your possession after termination. Termination of this Agreement shall not affect any rights or remedies available to the Author under applicable law, nor shall it affect any provisions of this Agreement that are intended to survive termination.
 
-7.4 Survival
-The following provisions of this Agreement shall survive termination and shall continue to be enforceable after the termination of this Agreement: Sections 5 (Intellectual Property Rights), 6 (Restrictions), 7.3 (Effect of Termination), 6.4 (Export Control), 8 (Disclaimer of Warranties), 9 (Indemnification), and 10 (Governing Law).
+8.4 Survival
+The following provisions of this Agreement shall survive termination and shall continue to be enforceable after the termination of this Agreement: Sections 5 (Intellectual Property Rights), 6 (Data Handling and Security), 7.3 (Compliance with Laws), 7.4 (Export Control), 9 (Indemnification), 10 (Governing Law), and 11 (Severability).
 
-8. Disclaimer of Warranties
-8.1 As-Is Basis
+9. Disclaimer of Warranties
+9.1 As-Is Basis
 The Software is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. The Author makes no warranties, express or implied, as to the performance, reliability, or security of the Software. You assume all risks associated with the use of the Software, including but not limited to risks related to data loss, unauthorized access, and device malfunctions.
 
-8.2 No Liability
+9.2 No Liability
 In no event shall the Author be liable for any damages, including but not limited to direct, indirect, special, incidental, or consequential damages arising out of or in connection with the use or inability to use the Software, even if the Author has been advised of the possibility of such damages. This limitation of liability applies to all claims, whether based on contract, tort, strict liability, or any other legal theory, and whether or not the Author has been advised of the possibility of such damages.
 
-8.3 No Warranty of Availability
+9.3 No Warranty of Availability
 The Author does not warrant that the Software will be available at all times or that it will be free from errors, bugs, or interruptions. The Author shall have no liability for any failure or delay in providing the Software or for any damages that may result from such failure or delay.
 
-8.4 No Warranty of Security
+9.4 No Warranty of Security
 The Author does not warrant that the Software is free from viruses, malware, or other harmful components, nor does the Author warrant that the Software will be secure from unauthorized access, hacking, or data breaches. You are solely responsible for implementing and maintaining appropriate security measures to protect Your devices and data.
 
-8.5 Third-Party Software
+9.5 Third-Party Software
 The Software may include or be integrated with third-party software, libraries, or components that are subject to separate license agreements. The Author makes no warranties, express or implied, regarding such third-party software, libraries, or components, and You agree to comply with all applicable third-party license agreements.
 
-9. Indemnification
-9.1 Indemnification Obligation
+9.6 Non-Infringement
+The Author does not warrant that the Software does not infringe on any third-party intellectual property rights. The Author shall not be responsible for any claims or liabilities arising from such infringement. You are solely responsible for ensuring that Your use of the Software does not violate any third-party intellectual property rights.
+
+10. Indemnification
+10.1 Indemnification Obligation
 You agree to indemnify, defend, and hold harmless the Author from and against any claims, liabilities, damages, losses, and expenses, including legal fees and costs, arising out of or in any way connected with Your use of the Software, Your violation of this Agreement, or any third-party claims related to Your use of the Software. This indemnification obligation shall survive the termination of this Agreement.
 
-9.2 Notice of Claims
+10.2 Notice of Claims
 In the event that any claim, suit, or proceeding is brought against the Author arising out of or in connection with Your use of the Software, You agree to promptly notify the Author in writing and to provide all necessary cooperation and assistance in the defense of such claim, suit, or proceeding.
 
-9.3 Author’s Control of Defense
+10.3 Author’s Control of Defense
 The Author shall have the right to control the defense of any claim, suit, or proceeding arising out of or in connection with Your use of the Software, including the right to settle or compromise such claim, suit, or proceeding. You agree not to settle or compromise any such claim, suit, or proceeding without the prior written consent of the Author.
 
-9.4 Contribution
+10.4 Contribution
 In the event that any damages, losses, or expenses are incurred by the Author as a result of Your use of the Software, You agree to contribute to such damages, losses, or expenses in proportion to Your responsibility for the same.
 
-10. Governing Law
-10.1 Jurisdiction
+11. Governing Law
+11.1 Jurisdiction
 This Agreement shall be governed by and construed in accordance with the laws of the Province of British Columbia, without regard to its conflicts of law principles. Any legal actions, suits, or proceedings arising out of or relating to this Agreement shall be brought exclusively in the courts of the Province of British Columbia, and You hereby consent to the jurisdiction and venue of such courts.
 
-10.2 Legal Proceedings
+11.2 Legal Proceedings
 In the event of any legal proceedings arising out of or in connection with this Agreement, the prevailing party shall be entitled to recover its reasonable legal fees and costs from the non-prevailing party. This provision shall apply regardless of whether the legal proceedings are resolved by settlement, judgment, or any other means.
 
-10.3 Injunctive Relief
+11.3 Injunctive Relief
 You agree that any breach of this Agreement may result in irreparable harm to the Author for which damages would not be an adequate remedy, and therefore the Author shall be entitled to seek injunctive relief in any court of competent jurisdiction to prevent or restrain any such breach, without the necessity of posting a bond or other security.
 
-10.4 Limitation of Actions
+11.4 Limitation of Actions
 You agree that any claim or cause of action arising out of or related to this Agreement or the use of the Software must be filed within one (1) year after the cause of action arose, or such claim or cause of action shall be forever barred.
 
-11. Severability
-11.1 Severability Clause
+11.5 International Use
+If You are using the Software outside of Canada, You are responsible for complying with any applicable local laws. The Author makes no representations that the Software is appropriate or available for use in other locations, and using the Software in jurisdictions where its use is restricted or illegal is prohibited.
+
+12. Severability
+12.1 Severability Clause
 If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect, and the invalid or unenforceable provision shall be modified to the extent necessary to make it valid and enforceable. If such modification is not possible, the invalid or unenforceable provision shall be deemed severed from this Agreement.
 
-11.2 Effect of Severability
+12.2 Effect of Severability
 The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, which shall remain in full force and effect. The parties agree to negotiate in good faith to replace any invalid or unenforceable provision with a valid and enforceable provision that most closely approximates the intent of the invalid or unenforceable provision.
 
-12. Amendments
-12.1 Right to Amend
+13. Amendments
+13.1 Right to Amend
 The Author reserves the right to modify or amend this Agreement at any time. Any such modifications or amendments will be effective immediately upon posting of the modified Agreement or by providing notice to You. Your continued use of the Software after any modifications or amendments shall constitute Your acceptance of such changes.
 
-12.2 Notification of Amendments
+13.2 Notification of Amendments
 The Author shall provide notice of any material amendments to this Agreement by posting the amended Agreement on the Author's website or by providing notice to You through other reasonable means. It is Your responsibility to review the amended Agreement and to ensure that You are in compliance with its terms.
 
-12.3 Effect of Amendments
+13.3 Effect of Amendments
 Any modifications or amendments to this Agreement shall apply prospectively only, and shall not affect any rights or obligations that arose prior to the effective date of such modifications or amendments. If You do not agree to any modifications or amendments to this Agreement, You must immediately cease using the Software and destroy all copies of the Software in Your possession or control.
 
-13. Entire Agreement
-13.1 Integration Clause
+14. Entire Agreement
+14.1 Integration Clause
 This Agreement constitutes the entire agreement between You and the Author regarding the use of the Software and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written. There are no representations, warranties, covenants, or agreements between the parties relating to the subject matter of this Agreement that are not set forth herein.
 
-13.2 Parol Evidence
+14.2 Parol Evidence
 In the event of any dispute arising out of or in connection with this Agreement, the parties agree that the terms of this Agreement shall be interpreted without reference to any prior or contemporaneous agreements, understandings, negotiations, or discussions, whether oral or written, and that the terms of this Agreement shall be given their plain and ordinary meaning.
 
-14. Waiver
-14.1 No Waiver
+15. Waiver
+15.1 No Waiver
 No failure or delay by the Author in exercising any right, power, or remedy under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise of any such right, power, or remedy preclude any other or further exercise thereof or the exercise of any other right, power, or remedy.
 
-14.2 Effect of Waiver
+15.2 Effect of Waiver
 Any waiver of any provision of this Agreement must be in writing and signed by the party granting the waiver. A waiver of any provision of this Agreement shall not be deemed a waiver of any other provision of this Agreement, nor shall a waiver of any provision of this Agreement be deemed a continuing waiver unless expressly stated in writing.
 
-15. Acknowledgment
-15.1 Acknowledgment of Terms
+16. Acknowledgment
+16.1 Acknowledgment of Terms
 By using the Software, You acknowledge that You have read this Agreement, understand it, and agree to be bound by its terms and conditions. You further acknowledge that You have had the opportunity to seek independent legal advice regarding this Agreement and that You fully understand the terms and conditions contained herein.
 
-15.2 Binding Nature
+16.2 Binding Nature
 This Agreement shall be binding upon and inure to the benefit of the parties and their respective heirs, successors, and assigns. The parties agree that this Agreement is enforceable in accordance with its terms and that no party shall be entitled to challenge the validity or enforceability of this Agreement on the grounds that it was executed electronically.
 
-16. Miscellaneous
-16.1 Headings
+17. Miscellaneous
+17.1 Headings
 The headings in this Agreement are for convenience only and shall not affect the interpretation or construction of this Agreement.
 
-16.2 No Third-Party Beneficiaries
+17.2 No Third-Party Beneficiaries
 This Agreement is intended solely for the benefit of the parties hereto and their respective successors and assigns, and nothing herein shall be construed to confer any rights or benefits upon any third party.
 
-16.3 Force Majeure
+17.3 Force Majeure
 The Author shall not be liable for any failure or delay in performing its obligations under this Agreement due to circumstances beyond its reasonable control, including but not limited to acts of God, war, terrorism, labor strikes, pandemics, or interruptions in internet service.
 
 Ethan Xu
